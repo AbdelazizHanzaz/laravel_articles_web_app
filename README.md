@@ -5,7 +5,7 @@ This is a web application built with Laravel that allows users to create, read, 
 1. Clone the repository:
 
    ```shell
-   git clone <https://github.com/AbdelazizHanzaz/laravel_articles_web_app.git>
+   git clone https://github.com/AbdelazizHanzaz/laravel_articles_web_app.git
    
 2. Navigate to the project directory:
 
