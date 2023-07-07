@@ -1,5 +1,24 @@
-# laravel_articles_web_app
-This is a web application built with Laravel that allows users to create, read, update, and delete articles. The app provides a user-friendly interface for managing articles with features such as pagination, search, sorting, image upload, and authentication.
+# Articles Web App
+
+This is a web application for managing articles. It allows users to create, read, update, and delete articles, and provides features such as pagination, search, sorting, image upload, and authentication.
+
+## Technologies Used
+
+- Laravel
+- PHP
+- MySQL (or your preferred database)
+- HTML
+- CSS (with Tailwind CSS)
+
+## Key Features and Functionalities
+
+- Create, read, update, and delete articles
+- Pagination for displaying a limited number of articles per page
+- Search functionality to find articles by title or content
+- Sorting of articles by title or published date
+- Image upload for articles
+- User authentication and authorization
+
 ## Installation
 
 1. Clone the repository:
