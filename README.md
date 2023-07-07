@@ -6,7 +6,7 @@ This is a web application for managing articles. It allows users to create, read
 
 - Laravel
 - PHP
-- MySQL (or your preferred database)
+- MySQL
 - HTML
 - CSS (with Tailwind CSS)
 
